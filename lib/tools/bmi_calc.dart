@@ -26,11 +26,11 @@ class CalculatorBrain {
 
   String getInterpretation(){
     if(_bmi >= 25) {
-      return "You have a higher than normal body weight! Try to exercise as part of your daily routine..";
+      return "Anda memiliki berat badan lebih tinggi dari biasanya! Cobalah berolahraga sebagai bagian dari rutinitas harian Anda.";
     } else if (_bmi > 18.5 ){
-      return "Great Job! You have a normal body weight. Keep working out!";
+      return "Kerja bagus! Anda memiliki berat badan normal. Teruslah berolahraga!";
     } else {
-      return "You have a lower than normal body weight! Try to intake more calories.";
+      return "Anda memiliki berat badan lebih rendah dari normal! Cobalah untuk mengonsumsi lebih banyak kalori.";
     }
   }
 }

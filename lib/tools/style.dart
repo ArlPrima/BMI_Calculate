@@ -31,10 +31,10 @@ const TextStyle black16m = TextStyle(
   fontWeight: FontWeight.w500,
 );
 
-const TextStyle black12r = TextStyle(
+const TextStyle black12m = TextStyle(
   color: black,
   fontSize: 36,
-  fontWeight: FontWeight.w400,
+  fontWeight: FontWeight.w500,
 );
 
 const TextStyle white16sb = TextStyle(
