@@ -1,6 +1,6 @@
 # bmi
 
-A new Flutter project.
+Aplikasi BMI (Body Mass Index) adalah sebuah alat yang dirancang untuk membantu pengguna memantau dan menilai status berat badan mereka. Aplikasi ini menyediakan kalkulator BMI yang sederhana dan mudah digunakan, memungkinkan pengguna untuk menghitung BMI mereka dengan memasukkan tinggi dan berat badan saat ini.
 
 ## Getting Started
 
