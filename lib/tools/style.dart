@@ -1,6 +1,12 @@
 import 'package:bmi/tools/color.dart';
 import 'package:flutter/cupertino.dart';
 
+const TextStyle black64b = TextStyle(
+  color: black,
+  fontSize: 64,
+  fontWeight: FontWeight.w700,
+);
+
 const TextStyle black36b = TextStyle(
   color: black,
   fontSize: 36,
