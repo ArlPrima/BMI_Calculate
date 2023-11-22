@@ -82,7 +82,7 @@ class ResultPage extends StatelessWidget {
                     backgroundColor: yellow),
                   child: const Center(
                       child: Text(
-                    "RECALCULATE YOUR BMI",
+                    "HITUNG ULANG",
                     style: black14sb,
                   )),),
                   ),
