@@ -24,7 +24,7 @@ class GenderCardContents extends StatelessWidget {
       children: [
         Icon(icon, size: iconSize ?? 80.0),
         SizedBox(
-          height: sizedBoxHeight ?? 15.0,
+          height: sizedBoxHeight ?? 0.1,
         ),
         Text(
           text,

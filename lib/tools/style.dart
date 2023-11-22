@@ -33,7 +33,7 @@ const TextStyle black16m = TextStyle(
 
 const TextStyle black12m = TextStyle(
   color: black,
-  fontSize: 36,
+  fontSize: 12,
   fontWeight: FontWeight.w500,
 );
 
