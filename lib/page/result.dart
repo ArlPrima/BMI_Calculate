@@ -22,8 +22,7 @@ class ResultPage extends StatelessWidget {
     var size = MediaQuery.of(context).size;
     return Scaffold(
       backgroundColor: gray,
-      body: Container(
-        color: gray,
+      body: SingleChildScrollView(
         child: Padding(
           padding: const EdgeInsets.all(26.0),
           child: Column(

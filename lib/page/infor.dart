@@ -9,7 +9,7 @@ class Info extends StatelessWidget {
   Widget build(BuildContext context) {
     var size = MediaQuery.of(context).size;
     return Scaffold(
-        body: SafeArea(
+      body: SingleChildScrollView(
       child: Container(
         padding: const EdgeInsets.all(32),
         child: Column(
